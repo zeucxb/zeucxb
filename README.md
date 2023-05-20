@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=zeucxb&color=red&style=plastic&label=Profile+views+since+May+2023)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeucxb&count_private=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeucxb&langs_count=10&layout=compact&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)](https://github.com/anuraghazra/github-readme-stats)
